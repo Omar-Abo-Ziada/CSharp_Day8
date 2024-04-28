@@ -1,0 +1,17 @@
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\bin\Debug\Day8.exe.config
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\bin\Debug\Day8.exe
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\bin\Debug\Day8.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.csproj.AssemblyReference.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.csproj.SuggestedBindingRedirects.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.Form1.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.Properties.Resources.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.csproj.GenerateResource.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.exe
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.FrmMsg.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.FrmPaint.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.UserControl1.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.ColorMixer.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.FrmControls.resources
+D:\Work\Instructor\C#\Inteka44\PD\Day8\Day8\obj\Debug\Day8.DigitalClock.resources
